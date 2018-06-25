@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdadsa
 dsaf
 dassddaw
@@ -7,3 +8,13 @@ fas
 wrawf
 a
 
+=======
+dsadaw
+as
+dsa
+
+sdcdassddaw
+asdmkas
+sa
+fas
+>>>>>>> a205c5160404df7eb5acc7088895359ca169fc94
